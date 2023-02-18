@@ -1,0 +1,1 @@
+module.exports = uri = 'mongodb+srv://admin:coolstack12345@cluster0.8fr33pa.mongodb.net/?retryWrites=true&w=majority'
